@@ -1,4 +1,6 @@
-# Usage 
+# 数理最適化法
+
+## Usage 
 
 ```
 source venv/bin/activate
